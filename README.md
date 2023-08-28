@@ -7,4 +7,3 @@
 3. Procesos en redes. Descripción microscópica: Ecuación Maestra. Sistemas en equilibrio termodinámico. Simulación numérica con modelos de agentes. Percolación. El modelo de Ising. Propagación de epidemias. Sincronización. Caminatas aleatorias y difusión.
 
 4. Redes de ordenes superiores. Hipergrafos. Complejos simpliciales. Cálculo diferencial discreto.
-
